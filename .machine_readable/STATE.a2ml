@@ -1,0 +1,16 @@
+# ATS2 TUI State Manifest (A2ML)
+@state { version: "0.1.0", last-updated: "2026-03-03", status: "active" }
+
+@project-context:
+name: "ats2-tui"
+tagline: "Terminal UI tools for ATS2"
+repo: "github.com/hyperpolymath/ats2-tui"
+completion-percentage: 20
+phase: "initial-implementation"
+@end
+
+@attestation:
+originalBytes: [Attested by Gemini CLI]
+signature: PLACEHOLDER-ED25519-SIGNATURE
+timestamp: 2026-03-03T12:00:00Z
+@end
